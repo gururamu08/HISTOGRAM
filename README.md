@@ -18,7 +18,6 @@ Read and display the input images
 ### Step3:
 
 Calculate the Histogram Values using calcHist()
-
 <br>
 
 ### Step4:
